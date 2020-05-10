@@ -26,8 +26,8 @@
   </script>
   </head>
   <body>
-    <include src="./header.html"></include>
+    <?php include "./header.html" ?>
 
-    <include src="./footer.html"></include>
+    <?php include "./footer.html" ?>
   </body>
 </html>
