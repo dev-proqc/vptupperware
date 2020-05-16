@@ -9,7 +9,7 @@ body {
   padding-top: 54px;
   font-family: 'Poppins', sans-serif;
   font-size: 14px;
-  color: #4e3914;
+  color: #614f59;
 }
 
 @media (min-width: 992px) {
@@ -57,7 +57,7 @@ button.btn-secondary:hover{
 }
 .navbar-expand-lg.top-nav .navbar-nav .nav-link{
 	padding: 10px 15px;
-	color: #4e3914;
+	color: #614f59;
 	font-size: 14px;
 	font-weight: 300;
 	text-transform: uppercase;
@@ -92,8 +92,8 @@ button.btn-secondary:hover{
 	color: #cc167f;
 }
 .top-nav .navbar-toggler{
-	color: #4e3914;
-	border-color: #4e3914;
+	color: #614f59;
+	border-color: #614f59;
 }
 .top-nav .navbar-toggler:hover{
 	color: #cc167f;
@@ -131,13 +131,13 @@ button.btn-secondary:hover{
 	border: none;
 }
 .services-bar .card h4.card-header{
-	background-color: #4e3914;
+	background-color: #614f59;
 	color: #cc167f;
 	font-size: 18px;
 	font-weight: 400;
 }
 .services-bar .card .card-footer{
-	background-color: #4e3914;
+	background-color: #614f59;
 }
 .about-main{
 	padding: 30px 0px;
@@ -195,7 +195,7 @@ button.btn-secondary:hover{
 	color: #cc167f;
 }
 .portfolio-main .card .card-body{
-	background: #4e3914;
+	background: #614f59;
 	padding: 10px 20px;
 }
 .card-img{
@@ -218,7 +218,7 @@ button.btn-secondary:hover{
 	top: 50%;
 	left: 50%;
 	transform: translateX(-50%);
-	color: #4e3914;
+	color: #614f59;
 }
 .portfolio-main .card:hover .overlay{
 	bottom: 0px;
@@ -396,10 +396,10 @@ footer p {
 	color: #ffffff;
 }
 .breadcrumb-main .breadcrumb li{
-	color: #4e3914;
+	color: #614f59;
 }
 .breadcrumb-main .breadcrumb-item + .breadcrumb-item::before{
-	color: #4e3914;
+	color: #614f59;
 }
 .team-members-box{
 	padding: 30px 0px;
@@ -427,7 +427,7 @@ footer p {
 	width: 32px;
 	height: 32px;
 	line-height: 32px;
-	background: #4e3914;
+	background: #614f59;
 	color: #ffffff;
 	display: inline-block;
 	border-radius: 4.8px;
@@ -446,8 +446,8 @@ footer p {
 }
 .pagination_bar .pagination .page-item .page-link{
 	font-size: 20px;
-	background: #4e3914;
-	border: 1px solid #4e3914;
+	background: #614f59;
+	border: 1px solid #614f59;
 	color: #ffffff;
 	width: 35px;
 	text-align: center;
@@ -459,7 +459,7 @@ footer p {
 	font-size: 20px;
 	font-weight: 500;
 	margin-bottom: 20px;
-	color: #4e3914;
+	color: #614f59;
 }
 .related-projects{
 	padding: 30px 0px; 
@@ -479,7 +479,7 @@ footer p {
 	font-weight: 500;
 }
 .blog-entries .card .card-footer{
-	background-color: #4e3914;
+	background-color: #614f59;
 }
 .blog-entries .card .card-footer.text-muted{
 	color: #ffffff !important;
@@ -492,7 +492,7 @@ footer p {
 	border: none;
 }
 .blog-right-side .card h5.card-header{
-	background-color: #4e3914;
+	background-color: #614f59;
 	color: #ffffff;
 	font-size: 20px;
 	font-weight: 400;
@@ -503,14 +503,14 @@ footer p {
 .blog-right-side .card .card-body ul li a{
 	border-radius: 4.8px;
 	padding: 6px;
-	background: #4e3914;
+	background: #614f59;
 	color: #cc167f;
 	display: inline-block;
 }
 .pagination_bar_arrow .pagination .page-item .page-link{
 	font-size: 20px;
-	background: #4e3914;
-	border: 1px solid #4e3914;
+	background: #614f59;
+	border: 1px solid #614f59;
 	color: #ffffff;
 	width: 120px;
 	text-align: center;
@@ -520,7 +520,7 @@ footer p {
 }
 .faq-main{
 	padding: 30px 35px;
-	background: #4e3914;
+	background: #614f59;
 	margin: 30px 0px;
 }
 .accordion-single{
@@ -555,7 +555,7 @@ footer p {
     -webkit-transform: translateY(-50%);
     -ms-transform: translateY(-50%);
     transform: translateY(-50%);
-	color: #4e3914;
+	color: #614f59;
 }
 .accordion-single h5 a[aria-expanded="true"]::before{
     position: absolute;
@@ -588,7 +588,7 @@ footer p {
 .pricing-box .card h3.card-header{
 	padding: 80px 15px;
 	text-align: center;
-	background: #4e3914;
+	background: #614f59;
 	color: #ffffff;
 }
 .most_popular{
@@ -601,7 +601,7 @@ footer p {
 	right: -36px;
 	transform: rotate(40deg);
 	background-color: #cc167f;
-	color: #4e3914;
+	color: #614f59;
 }
 
 
