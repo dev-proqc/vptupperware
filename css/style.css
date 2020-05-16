@@ -19,37 +19,37 @@ body {
 }
 
 a.btn-primary{
-	background-color: #4eae3a;
-	border-color: #4eae3a;
+	background-color: #cc167f;
+	border-color: #cc167f;
 }
 a.btn-primary:hover{
-	background-color: #5ec549;
-	border-color: #5ec549;
+	background-color: #9d0b5f;
+	border-color: #9d0b5f;
 }
 button.btn-primary{
-	background-color: #4eae3a;
-	border-color: #4eae3a;
+	background-color: #cc167f;
+	border-color: #cc167f;
 }
 button.btn-primary:hover{
-	background-color: #5ec549;
-	border-color: #5ec549;
+	background-color: #9d0b5f;
+	border-color: #9d0b5f;
 }
 
 a.btn-secondary{
-	background-color: #4eae3a;
-	border-color: #4eae3a;
+	background-color: #cc167f;
+	border-color: #cc167f;
 }
 a.btn-secondary:hover{
-	background-color: #5ec549;
-	border-color: #5ec549;
+	background-color: #9d0b5f;
+	border-color: #9d0b5f;
 }
 button.btn-secondary{
-	background-color: #4eae3a;
-	border-color: #4eae3a;
+	background-color: #cc167f;
+	border-color: #cc167f;
 }
 button.btn-secondary:hover{
-	background-color: #5ec549;
-	border-color: #5ec549;
+	background-color: #9d0b5f;
+	border-color: #9d0b5f;
 }
 
 .top-nav{
@@ -63,12 +63,12 @@ button.btn-secondary:hover{
 	text-transform: uppercase;
 }
 .navbar-expand-lg.top-nav .navbar-nav .nav-link:hover{
-	background: #4eae3a;
+	background: #cc167f;
 	color: #ffffff;
 	border-radius: 4.8px;
 }
 .navbar-expand-lg.top-nav .navbar-nav .nav-link.active{
-	background: #4eae3a;
+	background: #cc167f;
 	color: #ffffff;
 	border-radius: 4.8px;
 }
@@ -89,15 +89,15 @@ button.btn-secondary:hover{
 }
 .navbar-expand-lg.top-nav .navbar-nav .dropdown-menu .dropdown-item:hover{
 	background: none;
-	color: #4eae3a;
+	color: #cc167f;
 }
 .top-nav .navbar-toggler{
 	color: #4e3914;
 	border-color: #4e3914;
 }
 .top-nav .navbar-toggler:hover{
-	color: #4eae3a;
-	border-color: #4eae3a;
+	color: #cc167f;
+	border-color: #cc167f;
 }
 
 
@@ -132,7 +132,7 @@ button.btn-secondary:hover{
 }
 .services-bar .card h4.card-header{
 	background-color: #4e3914;
-	color: #4eae3a;
+	color: #cc167f;
 	font-size: 18px;
 	font-weight: 400;
 }
@@ -170,7 +170,7 @@ button.btn-secondary:hover{
 	position: absolute;
 	left: -15px;
 	top: 0px;
-	color: #4eae3a;
+	color: #cc167f;
 }
 .portfolio-main{
 	padding: 30px 0px;
@@ -192,7 +192,7 @@ button.btn-secondary:hover{
 	font-size: 20px;
 	font-weight: 400;
 	text-transform: uppercase;
-	color: #4eae3a;
+	color: #cc167f;
 }
 .portfolio-main .card .card-body{
 	background: #4e3914;
@@ -300,7 +300,7 @@ footer p {
 	margin-top:5px;
 	}
 .footer_ul2_amrc li a {
-	color: #4eae3a;
+	color: #cc167f;
 }
 .bottom_border { 
 	border-bottom:1px solid #323f45; 
@@ -329,7 +329,7 @@ footer p {
 	text-align: center;
 }
 .copyright a{
-	color: #4eae3a;
+	color: #cc167f;
 	text-decoration: underline;
 }
 .copyright a:hover{
@@ -359,8 +359,8 @@ footer p {
 	text-align:center;
 	}
 .social_footer_ul li a:hover {
-	color: #4eae3a; 
-	border:2px solid #4eae3a; 
+	color: #cc167f; 
+	border:2px solid #cc167f; 
 }
 
 /* ---- All Pages CSS ---- */
@@ -390,7 +390,7 @@ footer p {
 }
 
 .breadcrumb-main .breadcrumb{
-	background: #4eae3a;
+	background: #cc167f;
 }
 .breadcrumb-main .breadcrumb li a{
 	color: #ffffff;
@@ -414,7 +414,7 @@ footer p {
 	border: none;	
 }
 .team-members-box .card .card-footer{
-	background: #4eae3a;
+	background: #cc167f;
 }
 .team-members-box .card .card-footer ul{
 	margin: 0px;
@@ -453,7 +453,7 @@ footer p {
 	text-align: center;
 }
 .pagination_bar .pagination .page-item .page-link:hover{
-	background: #4eae3a;
+	background: #cc167f;
 }
 .portfolio-item h4.card-title a{
 	font-size: 20px;
@@ -485,7 +485,7 @@ footer p {
 	color: #ffffff !important;
 }
 .blog-entries .card .card-footer a{
-	color: #4eae3a;
+	color: #cc167f;
 }
 .blog-right-side .card{
 	box-shadow: 3px 5px 15px rgba(0,0,0, .15);
@@ -504,7 +504,7 @@ footer p {
 	border-radius: 4.8px;
 	padding: 6px;
 	background: #4e3914;
-	color: #4eae3a;
+	color: #cc167f;
 	display: inline-block;
 }
 .pagination_bar_arrow .pagination .page-item .page-link{
@@ -516,7 +516,7 @@ footer p {
 	text-align: center;
 }
 .pagination_bar_arrow .pagination .page-item .page-link:hover{
-	background: #4eae3a;
+	background: #cc167f;
 }
 .faq-main{
 	padding: 30px 35px;
@@ -542,7 +542,7 @@ footer p {
 	text-transform: capitalize;
 }
 .accordion-single .card-header h5 a:hover{
-	color: #4eae3a;
+	color: #cc167f;
 	text-decoration: none;
 }
 .accordion-single h5 a[aria-expanded="false"]::before {
@@ -567,7 +567,7 @@ footer p {
     -webkit-transform: translateY(-50%);
     -ms-transform: translateY(-50%);
     transform: translateY(-50%);
-    color: #4eae3a;
+    color: #cc167f;
 }
 .error-contents{
 	padding: 30px 0px;
@@ -600,7 +600,7 @@ footer p {
 	padding: 4px 0;
 	right: -36px;
 	transform: rotate(40deg);
-	background-color: #4eae3a;
+	background-color: #cc167f;
 	color: #4e3914;
 }
 
