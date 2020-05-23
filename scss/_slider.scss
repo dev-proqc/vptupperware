@@ -14,7 +14,7 @@
 .slider_text_inner{
 	position: absolute;
 	left: 50px;
-	top: 50%;
+	top: 40%;
 	transform: translateY(-50%);
 	width: 100%;
 	z-index: 5;
@@ -30,7 +30,7 @@
 		&:before{
 			content: "";
 			width: 360px;
-			height: 430px;
+			height: 330px;
 			background: rgba(167, 203, 0, .80);
 			position: absolute;
 			left: -95px;
