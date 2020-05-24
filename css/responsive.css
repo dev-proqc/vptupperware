@@ -284,6 +284,7 @@
 	============================================================================================ */
 	.swiper-slide img {
 		height: 500px;
+		width: 100%;
 	}
 	.slider_text_inner .slider_text::before {
 		display: none;
