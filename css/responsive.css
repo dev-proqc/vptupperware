@@ -283,8 +283,8 @@
 	/* End End Footer Area css
 	============================================================================================ */
 	.swiper-slide img {
-		height: 100%;
-		width: 100%;
+		height: 500px;
+		width: 500px;
 	}
 	.slider_text_inner .slider_text::before {
 		display: none;
