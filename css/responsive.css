@@ -210,8 +210,8 @@
 	.mission_slider .owl-prev, .mission_slider .owl-next {
 		bottom: 0px;
 	}
-	.success_area .success_img {
-		width: 50%;
+	.success_area .success_img img {
+		width: 100%;
 	}
 	.success_area .mission_text {
 		padding-top: 100px;
