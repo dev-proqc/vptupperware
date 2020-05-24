@@ -36,9 +36,6 @@ h1, h2, h3, h4, h5, h6 {
   font-weight: bold;
 }
 
-hr {
-  color: #d11381;
-}
 
 button:focus {
   outline: none;
@@ -49,6 +46,11 @@ button:focus {
 .p_120 {
   padding-top: 120px;
   padding-bottom: 120px;
+}
+
+.p_121 {
+  padding-top: 12px;
+  padding-bottom: 12px;
 }
 
 .pad_top {
