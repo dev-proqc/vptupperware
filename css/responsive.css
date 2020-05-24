@@ -210,9 +210,12 @@
 	.mission_slider .owl-prev, .mission_slider .owl-next {
 		bottom: 0px;
 	}
-	.success_area .mission_text {
+	.success_img {
 		padding-top: 100px;
 		padding-bottom: 100px;
+	}
+	.mission_area .left_img img {
+		width: 100%;
 	}
 	.home_blog_area{
 		max-width: 460px;
