@@ -36,6 +36,10 @@ h1, h2, h3, h4, h5, h6 {
   font-weight: bold;
 }
 
+hr {
+  color: #d11381;
+}
+
 button:focus {
   outline: none;
   -webkit-box-shadow: none;
