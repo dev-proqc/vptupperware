@@ -130,8 +130,8 @@
         </section>
         <!--================Contact Area =================-->
         
-         <!--================ start footer Area  =================-->	
-         <footer class="footer-area">
+        <!--================ start footer Area  =================-->	
+        <footer class="footer-area">
             <div class="container">
                 <div class="row">
                     <div class="col-lg-3  col-md-6 col-sm-6">
@@ -196,6 +196,37 @@ Copyright &copy;<script>document.write(new Date().getFullYear());</script> Vivre
         </footer>
 		<!--================ End footer Area  =================-->
         
+        <!--================Contact Success and Error message Area =================-->
+        <div id="success" class="modal modal-message fade" role="dialog">
+            <div class="modal-dialog">
+                <div class="modal-content">
+                    <div class="modal-header">
+                        <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+                            <i class="fa fa-close"></i>
+                        </button>
+                        <h2>Merci</h2>
+                        <p>Your message is successfully sent...</p>
+                    </div>
+                </div>
+            </div>
+        </div>
+
+        <!-- Modals error -->
+
+        <div id="error" class="modal modal-message fade" role="dialog">
+            <div class="modal-dialog">
+                <div class="modal-content">
+                    <div class="modal-header">
+                        <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+                            <i class="fa fa-close"></i>
+                        </button>
+                        <h2>Sorry !</h2>
+                        <p> Something went wrong </p>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <!--================End Contact Success and Error message Area =================-->
         
         
         
@@ -212,11 +243,18 @@ Copyright &copy;<script>document.write(new Date().getFullYear());</script> Vivre
         <script src="vendors/isotope/isotope-min.js"></script>
         <script src="vendors/owl-carousel/owl.carousel.min.js"></script>
         <script src="js/jquery.ajaxchimp.min.js"></script>
+        <script src="js/mail-script.js"></script>
         <script src="vendors/counter-up/jquery.waypoints.min.js"></script>
         <script src="vendors/counter-up/jquery.counterup.js"></script>
-        <script src="js/mail-script.js"></script>
         <script src="vendors/popup/jquery.magnific-popup.min.js"></script>
         <script src="vendors/swiper/js/swiper.min.js"></script>
+        <!-- contact js -->
+        <script src="js/jquery.form.js"></script>
+        <script src="js/jquery.validate.min.js"></script>
+        <script src="js/contact.js"></script>
+        <!--gmaps Js-->
+        <script src="https://maps.googleapis.com/maps/api/js?key=AIzaSyCjCGmQ0Uq4exrzdcL6rvxywDDOvfAu6eE"></script>
+        <script src="js/gmaps.min.js"></script>
         <script src="js/theme.js"></script>
     </body>
 </html>
