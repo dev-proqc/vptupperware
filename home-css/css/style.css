@@ -427,7 +427,6 @@ h6 {
   margin-left: 130px;
 }
 
-
 .project_area {
   overflow: hidden;
 }
@@ -473,10 +472,51 @@ h6 {
   margin-bottom: 10px;
 }
 
+.project_item .hover_text .cat a {
+  color: #000000;
+  margin-right: 8px;
+  font-size: 14px;
+  font-family: "Raleway", sans-serif;
+  position: relative;
+}
+
+.project_item .hover_text .cat a:before {
+  content: "/";
+  position: absolute;
+  right: -10px;
+  top: 50%;
+  -webkit-transform: translateY(-50%);
+  -ms-transform: translateY(-50%);
+  transform: translateY(-50%);
+}
+
+.project_item .hover_text .cat a:last-child {
+  margin-right: 0px;
+}
+
+.project_item .hover_text .cat a:last-child:before {
+  display: none;
+}
+
 .project_item .hover_text .main_btn {
   line-height: 0px;
   height: 0px;
   opacity: 0;
+}
+
+.project_item:hover:before {
+  opacity: 1;
+}
+
+.project_item:hover .hover_text {
+  bottom: 35px;
+}
+
+.project_item:hover .hover_text .main_btn {
+  height: 100%;
+  line-height: 48px;
+  opacity: 1;
+  margin-top: 22px;
 }
 
 .project_know_area {
