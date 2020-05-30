@@ -210,40 +210,22 @@ pre {
     -ms-overflow-style: scrollbar
 }
 
-figure {
-    margin: 0 0 1rem
-}
+
+
+
+
+
+
 
 img {
     vertical-align: middle;
     border-style: none
 }
 
-svg {
-    overflow: hidden;
-    vertical-align: middle
-}
-
 table {
     border-collapse: collapse
 }
 
-caption {
-    padding-top: .75rem;
-    padding-bottom: .75rem;
-    color: #6c757d;
-    text-align: left;
-    caption-side: bottom
-}
-
-th {
-    text-align: inherit
-}
-
-label {
-    display: inline-block;
-    margin-bottom: .5rem
-}
 
 button {
     border-radius: 0
@@ -281,15 +263,6 @@ button,
 html [type=button] {
     -webkit-appearance: button
 }
-
-
-
-
-
-
-
-
-
 
 .h1,
 .h2,
