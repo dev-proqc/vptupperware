@@ -6857,28 +6857,13 @@ button.bg-dark:hover {
     justify-content: center !important
 }
 
+
+
+
 .justify-content-between {
     -ms-flex-pack: justify !important;
     justify-content: space-between !important
 }
-
-.justify-content-around {
-    -ms-flex-pack: distribute !important;
-    justify-content: space-around !important
-}
-
-.align-items-start {
-    -ms-flex-align: start !important;
-    align-items: flex-start !important
-}
-
-.align-items-end {
-    -ms-flex-align: end !important;
-    align-items: flex-end !important
-}
-
-
-
 
 .align-items-center {
     -ms-flex-align: center !important;
