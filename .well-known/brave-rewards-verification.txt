@@ -1,0 +1,4 @@
+This is a Brave Rewards publisher verification file.
+
+Domain: vivreavectupperware.ca
+Token: 456e6d339f9a8e5251d43b801e5484aa25124bbde368b3aa76ae3066827cdb65
